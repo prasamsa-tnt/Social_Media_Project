@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "social_media",
   "version": "0.1.0",
   "private": true,
@@ -48,9 +47,4 @@
     ]
   },
   "proxy": "http://localhost:8800/api"
-=======
-  "dependencies": {
-    "bootstrap": "^5.3.0"
-  }
->>>>>>> ec0e1ebffc78c51780ef5d8b106128bb71062ba5
 }
